@@ -1,0 +1,8 @@
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\Tarea5\T\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.csproj.AssemblyReference.cache
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\Tarea5\T\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\Tarea5\T\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.AssemblyInfoInputs.cache
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\Tarea5\T\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.AssemblyInfo.cs
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\Tarea5\T\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.csproj.CoreCompileInputs.cache
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\Tarea5\T\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\Tarea5\T\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\Tarea5\T\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.sourcelink.json
